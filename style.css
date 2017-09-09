@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 12px;
+}
+.wrap{
+	width: 100%;
+	height: 100vh;
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.page{
+	width: 960px;
+	height: 100vh;
+	margin: 0 auto;
+}
+.page{
+	display: -webkit-flex;
+	display: flex;
+}
+.page .nav {
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	width: 20rem;
+	height: 100%;
+	background-color: #254665;
+	color: #fff;
+	line-height: 3.5rem;
+	padding: 2rem 1rem;
+	box-sizing: border-box;
+}
+.nav h1,h3{
+	font-weight: 500;
+	font-size: 2rem;
+	text-align: center;
+}
+.nav .aim,.info{
+	font-size: 1.6rem;
+}
+.nav p{
+	font-size: 1.2rem;
+	padding-left: 3rem;
+	box-sizing: border-box;
+}
+.nav .item {
+	background-size: 2.4rem 2.4rem;
+	background-position: 0 50%;
+}
+.university{
+	background: url('./img/school.png') no-repeat;
+
+}
+.major{
+	background: url('./img/major.png') no-repeat;
+
+}
+.grutime{
+	background: url('./img/time.png') no-repeat;
+
+}
+.email{
+	background: url('./img/email.png') no-repeat;
+
+}
+.tel{
+	background: url('./img/phone.png') no-repeat;
+
+}
+.contentbox {
+	flex: 1;
+	height: 100vh;
+	background-color: #fafafa;
+}
+.content {
+	padding: 1.8rem 1rem;
+	box-sizing: border-box;
+	text-align: left;
+	line-height: 2.8rem;
+	color: #5a7b88;
+}
+.content h2{
+	text-align: left;
+	position: relative;
+}
+.content h2:after{
+	content: '';
+	position: absolute;
+	height: 1px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #5a7b88;
+}
+.content .detail {
+	display: block;
+	word-break: keep-all;
+	white-space: nowrap;
+	overflow-y: hidden;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+}
+.content p {
+	font-size: 1.2rem;
+}
+.content .name {
+	display: inline-block;
+	margin-right: 1rem;
+	font-size: 1.2rem;
+}
