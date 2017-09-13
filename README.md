@@ -22,12 +22,14 @@
 * 熟练使用vue的数据绑定等功能，了解组件化、路由、状态管理；
 * 常用编辑器Hbuilder、sublime，了解vs code；
 * 通过google、segmentfault、掘金等社区可以独立解决问题，学习新知识能力强，能很快运用到项目上；
-  
+
+
+
 # 工作经历
   
 ## 青岛天成汇杰信息科技有限公司（2016/03 - 2017/08）
 ### 互金普惠
-此项目包括电脑版与Hybird app版，电脑版前后分离，与后台通过api、json、ajax、vue实现了数据展示与逻辑交互，app版采用基于DCloud平台的mui、vue等其他技术
+此项目包括电脑版与Hybird app版，前后端分离，与后台通过api、json、ajax、vue实现了数据展示与逻辑交互，app版采用基于DCloud平台的mui、vue等其他技术
 实现了微信、支付支付，通知推送，页面间传值，分享等日常操作，并且深度修改了下拉刷新图标。
 
 ### 跑腿APP
@@ -41,6 +43,21 @@
 ## 智慧云谷云计算有限公司 （2015/05 - 2015/11）
 
 主要负责公司官网页面与后台页面的更新与维护
+
+# 过往项目案例
+
+### [跑腿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/paotui.apk "跑腿APP")
+关键词：Hybird app、hbulider、mui、百度地图webapi、微信支付宝支付、消息推送
+
+### [弘毅国学APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hongyi.apk "弘毅国学APP")   [哈圈儿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hafa.apk "哈圈儿APP")
+关键词：Hybird app、hbulider、mui、商城、微信支付宝支付、消息推送
+
+
+### [mimiport pc版网站](http://www.eumimi.com/ "mimiport")
+关键词：vue、ajax、json、jquery、layer(很早之前的作品，写的比较简陋，ajax error都没做。。。)
+
+### [互金普惠 pc网站](http://www.hujinpuhui.com/ "弘毅国学APP")(后台有问题可能打不开)   [互金普惠APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hafa.apk "互金普惠APP")
+关键词：vue、ajax、json、jquery、layer(还算成熟的作品，不过后台出问题了，很有可能打不开)
 
 # 致谢
 
