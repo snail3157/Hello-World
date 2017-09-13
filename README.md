@@ -45,18 +45,20 @@
 
 主要负责公司官网页面与后台页面的更新与维护
 
+  
 
 
 # 过往项目案例
+  
 
-### [跑腿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/paotui.apk "跑腿APP")
+*  [跑腿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/paotui.apk "跑腿APP")
 关键词：Hybird app、hbulider、mui、百度地图webapi、微信支付宝支付、消息推送
 
-### [弘毅国学APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hongyi.apk "弘毅国学APP")   [哈圈儿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hafa.apk "哈圈儿APP")
+*  [弘毅国学APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hongyi.apk "弘毅国学APP")   [哈圈儿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hafa.apk "哈圈儿APP")
 关键词：Hybird app、hbulider、mui、商城、微信支付宝支付、消息推送
 
 
-### [mimiport pc版网站](http://www.eumimi.com/ "mimiport")
+*  [mimiport pc版网站](http://www.eumimi.com/ "mimiport")
 关键词：vue、ajax、json、jquery、layer(很早之前的作品，写的比较简陋，ajax error都没做。。。)
 
 
