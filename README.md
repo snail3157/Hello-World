@@ -11,6 +11,7 @@
 * ２年工作经验
 * 期望职位：web前端工程师
 * 期望城市：北京
+* 所在城市：北京
 
 # 技能清单
 
@@ -44,6 +45,8 @@
 
 主要负责公司官网页面与后台页面的更新与维护
 
+
+
 # 过往项目案例
 
 ### [跑腿APP](https://github.com/wujie396/Hello-World/blob/gh-pages/paotui.apk "跑腿APP")
@@ -56,8 +59,6 @@
 ### [mimiport pc版网站](http://www.eumimi.com/ "mimiport")
 关键词：vue、ajax、json、jquery、layer(很早之前的作品，写的比较简陋，ajax error都没做。。。)
 
-### [互金普惠 pc网站](http://www.hujinpuhui.com/ "弘毅国学APP")(后台有问题可能打不开)   [互金普惠APP](https://github.com/wujie396/Hello-World/blob/gh-pages/hafa.apk "互金普惠APP")
-关键词：vue、ajax、json、jquery、layer(还算成熟的作品，不过后台出问题了，很有可能打不开)
 
 # 致谢
 
